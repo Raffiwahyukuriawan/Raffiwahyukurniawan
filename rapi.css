@@ -1,0 +1,27 @@
+.sb{
+    background-color: rgb(225, 251, 11);
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid black;
+    color: black;
+    text-align: right;
+}
+
+tr{
+    background-color: blue;
+    border: 5px solid hsl(64, 79%, 4%);
+    width: 100%;
+    margin: 6px;
+    padding: 20px;
+    border-radius: 40px;
+    
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    width: 100%
+    
+    
+}
+

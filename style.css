@@ -1,0 +1,70 @@
+    body{
+    height: 100vh;
+    background-color: #818827;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+header1{
+    padding: 100px;
+    margin: 100px;
+    /*border: 100px solid  #FCE09B;*/
+   /* background-color:  #FCE09B;*/
+    text-align: center;
+}
+    header2{
+        padding: 100px;
+        margin: 100px;
+       /* border: 100px solid  #FCE09B;*/
+       /* background-color:  #FCE09B;*/
+       /* text-align: center;*/
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    width: 100%
+    
+}
+
+article1 {
+    /*px = tetap-%=mengikuti*/
+    background-color: #818827;
+    border: 5px solid hsl(64, 79%, 4%);
+    text-align: center;
+    width: 100%;
+    margin: 6px;
+    padding: 20px;
+    border-radius:40px;
+    box-shadow: rgb(199, 10, 10) 10px 15px 8px;
+}
+
+article3 {
+    background-color: rgb(155, 163, 48);
+    border: 5px solid hsl(64, 79%, 4%);
+    width: 100%;
+    margin: 6px;
+    padding: 20px;
+    border-radius:10px;
+    text-align: center;
+}
+article4 {
+    background-color: rgb(155, 163, 48);
+    border: 5px solid hsl(64, 79%, 4%);
+    box-shadow: black 10px 5px 8px;
+    width: 100%;
+    margin: 6px;
+    padding: 20px;
+    border-radius:40px;
+    box-shadow: black 10px 50px 8px;
+}
+.sosialmedia ul {
+    display: inline;
+}
+
+main{
+    margin-top: 20px;;
+}
